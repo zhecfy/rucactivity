@@ -1,0 +1,7 @@
+__pycache__/
+
+.env
+
+exclude.json
+*.log
+export.html
